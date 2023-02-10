@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+    color:white;
+}
+#borrar{
+    cursor: pointer;
+}
+.contenedor_prpal{
+    padding: 5rem;
+}
